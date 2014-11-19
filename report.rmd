@@ -1,7 +1,10 @@
 ---
 title: "Histogram of English Word Lengths"
 author: "Wesley Gerelle"
-date: "2014-11-18"
+date: '2014-11-18'
+output:
+  html_document:
+    keep_md: yes
 ---
 
 ![*Fig. 1* A histogram of English word lengths](histogram.png)
